@@ -39,7 +39,7 @@ const _layout = () => {
                 marginBottom: 20,
                 height: 52,
                 position: 'absolute',
-                bottom: 0, 
+                bottom: -15, 
                 left: 0,    
                 right: 0,   
                 overflow: 'hidden',
